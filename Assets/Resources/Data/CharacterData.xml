@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCharacterData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CharacterData ID="0" Name ="잭" price ="0"  SpecialStatus ="없음" introduce ="주인공이자 비운의 연구원.&#10;긴 연구 끝에 슈퍼 콩 재배엔 성공했지만, 이내 우주로 솟구쳐버린 콩나무를 보고 좌절한다.&#10;그러나 머뭇거릴 틈이 없다!&#10;슈퍼 콩을 되찾기 위해, 잭은 우주복 하나만을 걸쳐입고 긴 여정에 나선다.  " icon="Animation/MainPopupJackAnimation" icon2="Animation/JackAnimation"/>
+	<CharacterData ID="1" Name ="밥" price ="5000"  SpecialStatus ="성층권 시작" introduce ="잭의 든든한 동료이자 애주가.&#10;무엇보다 로켓을 디자인해준 둘도 없는 친구다.&#10;그러나 잭이 돌아올 생각을 않자, 성질급한 밥은 직접 콩나무에 올라타기 시작한다.&#10;잭과 마실 한잔의 맥주를 위해서." icon="Animation/MainPopupBuilderAnimation" icon2="Animation/BuilderAnimation"/>
+	<CharacterData ID="2" Name ="인디고" price ="7000"  SpecialStatus ="열권 시작" introduce ="잭과 조우한 미지의 존재.&#10;우주로 뻗어나온 콩나물을 조사하기 위해 내려왔고, 피부색을 따 인디고라 불린다.&#10;슈퍼 콩 연구에 지대한 관심이 있으며, 이를 발명한 인간에게 우호적으로 대한다." icon="Animation/MainPopupAlienAnimation" icon2="Animation/AlienAnimation"/>
+	<CharacterData ID="3" Name ="헨드릭스" price ="0"  SpecialStatus ="목숨 + 1" introduce ="하늘섬에 살던 거인족 헨드릭스!&#10;어느날, 솟아오른 콩나무에 걸려 지구로 떨어지게 되었다.&#10;지구로 오면서 몸까지 작아진 헨드릭스.&#10;그에게 포기란 없다!&#10;잃어버린 몸과 고향을 되찾기 위해 힘차게 콩나무를 오른다." icon="Animation/MainPopupBigBoyAnimation" icon2="Animation/BigBoyAnimation"/>
+</ArrayOfCharacterData>

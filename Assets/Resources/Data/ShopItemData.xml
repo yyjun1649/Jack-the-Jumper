@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShopItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ShopItemData ID="0" ItemName ="스타트 대쉬" productID="" ItemCount ="1" price ="300" condition="CanBuy" cashType="Bean" ItemIcon="Sprites/Main/Item/Rocket" folderType ="Item" />
+	<ShopItemData ID="1" ItemName ="부활권" productID="" ItemCount ="1" price ="600" condition="CanBuy" cashType="Bean" ItemIcon="Sprites/Main/Item/Revive" folderType ="Item" />
+	<ShopItemData ID="2" ItemName ="광고제거" productID="jack_noads" ItemCount ="1" price ="4900" condition="CanBuy" cashType="Ads" ItemIcon="Sprites/Main/Item/DeleteAds" folderType ="Item" />
+	<ShopItemData ID="3" ItemName ="콩" productID="bean_2000" ItemCount ="2000" price ="3990" condition="CanBuy" cashType="Cash" ItemIcon="Sprites/Main/Item/Bean" folderType ="Package" />
+	<ShopItemData ID="4" ItemName ="콩" productID="bean_4000" ItemCount ="4000" price ="6990" condition="CanBuy" cashType="Cash" ItemIcon="Sprites/Main/Item/Bean" folderType ="Package" />
+	<ShopItemData ID="5" ItemName ="광고제거콩" productID="jack_noadsplus" ItemCount ="3000" price ="9990" condition="CanBuy" cashType="Ads" ItemIcon="Sprites/Main/Item/DeleteAds" folderType ="Package" />
+</ArrayOfShopItemData>

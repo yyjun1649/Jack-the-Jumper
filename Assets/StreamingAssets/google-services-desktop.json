@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869008995463",
+    "project_id": "jack-the-jumper-79003414",
+    "storage_bucket": "jack-the-jumper-79003414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869008995463:android:a2465a72b94b97016d3422",
+        "android_client_info": {
+          "package_name": "com.jackthejumper.eveni4team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869008995463-7vofv20cn9tni8msb35bqm5cncmh1vaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jackthejumper.eveni4team",
+            "certificate_hash": "8004c5406699c71f0ebb1be225ac9bca461f288b"
+          }
+        },
+        {
+          "client_id": "869008995463-vppekonvgqsliqiqqgbmik2ar28288pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYXQIskPiqrNEZsERzjPDB0JudePLn4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869008995463-vppekonvgqsliqiqqgbmik2ar28288pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

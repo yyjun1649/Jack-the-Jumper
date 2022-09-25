@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainPopupAlienAnimation
+  m_Controller: {fileID: 9100000, guid: 73ca87768db1a984d850cc4e8346eace, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 25fb2cda13135684394d708898e4ffee, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1259c5a6ff44cb08ca4bc8c35baa8e0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 696b6fad42aa3b240bd17cd650d6783a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6fe66d0463144a709b58fc243181df8a, type: 2}

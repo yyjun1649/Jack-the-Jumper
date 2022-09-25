@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTextData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TextData ID="1" kor="NoName" eng="NoName" />
+	<TextData ID="10001" kor ="시작하기" eng ="Start" />
+	<TextData ID="10002" kor ="상점" eng ="" />
+</ArrayOfTextData>
